@@ -1,2 +1,2 @@
 # MQL
-MQL KB for us
+MQL KB
